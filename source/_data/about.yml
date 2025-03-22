@@ -1,0 +1,86 @@
+title: 关于我
+
+contentinfo: # Top personal information display
+  sup: Hey👋
+  name: 我叫鸽秋 # Name
+  title: 目前高中在读 # Introduction
+  tip: 兴趣
+  slogan: 不广不多
+  mask:
+    - 游戏
+    - 编程
+    - 科技
+
+skills: # Add as needed
+  title: 技能与工具链
+  subtitle: 有限创造无限
+  tags:
+    - title: C#
+      img: https://img.z4a.net/images/2025/03/22/c-sharp.webp # 如果有图片，则不会显示图标
+      # icon: fab fa-html5
+      color: "#ca95f7"
+    - title: Python
+      img: https://img.z4a.net/images/2025/03/22/python.webp
+      color: "#f9e1a9"
+    - title: Postman
+      img: https://img.z4a.net/images/2025/03/22/postman.webp
+      color: "#d35230"
+    - title: Visual Basic .NET
+      img: https://img.z4a.net/images/2025/03/22/visualbasic.webp
+      color: "#0074e0"
+    - title: Visual Studio Code
+      img: https://img.z4a.net/images/2025/03/22/vscode.webp
+      color: "#c3c2e0"
+    - title: GitHub
+      # img: https://img.z4a.net/images/2025/03/22/github-light.webp
+      icon: fab fa-github
+      color: "#777a55"
+    - title: Adobe Photoshop
+      img: https://img.z4a.net/images/2025/03/22/photoshop.webp
+      color: "#124f5f"
+
+careers:
+  title: 生涯
+  subtitle: 无限进步
+  # image: https://s3.qjqq.cn/47/67a216483c354.png!color
+  items:
+    - color: "#ffa565"
+      school: 高中
+      major: 物化生
+    - color: "#ffa565"
+      school: .NET 开发
+      major: 做了一些小玩意儿
+    - color: "#ffa565"
+      school: CrashMC 崩溃分析
+      major: 虽然现在还没啥起色
+
+motto:
+  title: 态度
+  prefix: Live a life
+  content: you'll remember.
+
+expertise:
+  title: 领域
+  prefix: .NET 开发
+  specialist: 学习中
+  content: 更多技能
+  level: 持续挖掘
+
+cause:
+  tip: 更多
+  title: 谈谈我自己和本站...
+  content:
+    <br>这里是鸽秋随便搭的一个 <b>Blog</b> 站，会记录些无聊的东西。我可能会不定期分享一些 <b>教程</b>、<b>开发心得与碎碎念</b>、<b>生活杂谈</b>。
+    <br>
+    很幸运在这里遇见你，希望你<b>逛的愉快</b>！:)
+    <br>
+
+award:
+  enable: false
+  description: 感谢大家的支持和鼓励。因为你们，我感到写作博客可以为你们创造价值。这将使我在这条路上走得更远。
+  tips: "总金额: ¥ {sum}, 将用于博客的维护和更新。"
+rewardList: # Bottom donations
+  - name: 悦华
+    money: 5
+    time: 2023-04-20
+    icon: fab fa-weixin

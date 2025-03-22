@@ -1,0 +1,15 @@
+banner_suffix:
+links:
+  - class_name: 友情链接 # 分类名称
+    descr: 可以去其他朋友们的小站看看！ # 分类简介
+    type: item # 显示方式，有两种 card / item / disco
+    suffix:
+    link_list:
+      - name: 晓雨杂记 # 友链名称
+        link: https://www.lihaoyu.cn/ # 友链地址
+        descr: 也许我们会分别，但我们将永远不会忘记彼此 # 友链简介
+        avatar: https://blog-api.lihaoyu.cn/images/profile/avatar-128x.webp # 显示头像
+      - name: Solitude # 友链名称
+        link: https://github.com/everfu/hexo-theme-solitude # 友链地址
+        descr: 一款简单易用的 Hexo 主题 # 友链简介
+        avatar: /img/logo.png # 显示头像
