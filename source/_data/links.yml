@@ -9,7 +9,4 @@ links:
         link: https://www.lihaoyu.cn/ # 友链地址
         descr: 也许我们会分别，但我们将永远不会忘记彼此 # 友链简介
         avatar: https://blog-api.lihaoyu.cn/images/profile/avatar-128x.webp # 显示头像
-      - name: Solitude # 友链名称
-        link: https://github.com/everfu/hexo-theme-solitude # 友链地址
-        descr: 一款简单易用的 Hexo 主题 # 友链简介
-        avatar: /img/logo.png # 显示头像
+        
