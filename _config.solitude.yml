@@ -766,6 +766,8 @@ extends:
   # Insert in body
   # 插入到 body
   body:
+    - <script defer src="/_vercel/speed-insights/script.js"></script>
+    - <script defer src="/_vercel/insights/script.js"></script>
   #  - <script src="https://cdn.bootcdn.net/ajax/libs/pace/1.2.4/pace.min.js"></script>
 # --------------------------- end ---------------------------
 
