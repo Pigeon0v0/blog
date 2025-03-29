@@ -553,8 +553,8 @@ footer:
 
   # 备案
   beian:
-    - name: 萌 ICP 备 20252510 号
-      url: https://icp.gov.moe/?keyword=20252510
+    #- name: 萌 ICP 备 20252510 号
+    #  url: https://icp.gov.moe/?keyword=20252510
     # - name: 湘公网安备43048102000175号
     #   icon: https://beian.mps.gov.cn/img/logo01.dd7ff50e.png
     #   url: https://beian.mps.gov.cn/#/query/webSearch
@@ -563,6 +563,8 @@ footer:
 
   # 页脚信息文字
   links:
+    - name: 萌 ICP 备 20252510 号
+      url: https://icp.gov.moe/?keyword=20252510
     # - name: RSS
     #   url: /atom.xml
     # - name: License
