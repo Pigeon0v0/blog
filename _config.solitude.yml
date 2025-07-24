@@ -102,8 +102,8 @@ hometop:
   recommendList:
     enable: true
     sup: 推荐
-    title: PCL2 社区版
-    url: https://github.com/Hex-Dragon/PCL2/discussions/5342
+    title: PCL 社区版
+    url: https://github.com/Meloong-Git/PCL/discussions/5342
     img: https://img.z4a.net/images/2025/03/15/PCL-CE2.10.0.png
     color: "#ffa565"
 
@@ -190,7 +190,7 @@ aside:
     postcount: true
     # Total number of words
     # 总字数
-    wordcount: false
+    wordcount: true
     # PV
     pv: true
     # UV
@@ -200,10 +200,10 @@ aside:
     updatetime: true
     # Website creation time
     # 网站创建时间
-    runtimeenable: false
+    runtimeenable: true
     # Format: yyyy-MM-dd hh-mm-ss
     # 格式: yyyy-MM-dd hh-mm-ss
-    runtime: "2025-03-15 00:00:00"
+    runtime: "2025-03-15 10:23:00"
   # --------------------------- end ---------------------------
 # --------------------------- end ---------------------------
 
@@ -349,7 +349,7 @@ display_mode:
   type: auto
   # After opening, the dark mode will display the starry sky background
   # 开启后深色模式会显示星空背景
-  universe: false
+  universe: true
 # --------------------------- end ---------------------------
 
 # --------------------------- start ---------------------------
@@ -553,8 +553,8 @@ footer:
 
   # 备案
   beian:
-    #- name: 萌 ICP 备 20252510 号
-    #  url: https://icp.gov.moe/?keyword=20252510
+    - name: 萌 ICP 备 20252510 号
+      url: https://icp.gov.moe/?keyword=20252510
     # - name: 湘公网安备43048102000175号
     #   icon: https://beian.mps.gov.cn/img/logo01.dd7ff50e.png
     #   url: https://beian.mps.gov.cn/#/query/webSearch
@@ -685,11 +685,11 @@ highlight:
 # --------------------------- start ---------------------------
 # Lightbox
 # 图片灯箱
-lightbox: false
+lightbox: true
 # warning: Please select any one, but cannot be turned on at the same time.
 # 警告: 请任选其一，但不能同时开启。
 fancybox: false # fancybox
-mediumZoom: false # mediumZoom
+mediumZoom: true # mediumZoom
 # --------------------------- end ---------------------------
 
 # --------------------------- start ---------------------------
