@@ -9,4 +9,9 @@ links:
         link: https://www.lihaoyu.cn/ # 友链地址
         descr: 也许我们会分别，但我们将永远不会忘记彼此 # 友链简介
         avatar: https://blog-api.lihaoyu.cn/images/profile/avatar-128x.webp # 显示头像
+
+      - name: Hill233 的小窝
+        link: https://suki.ink/
+        descr: 只是一个普普通通的 blog 罢了
+        avatar: https://q.qlogo.cn/g?b=qq&nk=1851466055&s=640
         

@@ -370,7 +370,7 @@ font:
 # Background
 # 背景图片
 background:
-  enable: true
+  enable: false
   opacity: .1
   dark: https://img.z4a.net/images/2025/03/15/merry-flower-bg.png
   light: https://img.z4a.net/images/2025/03/15/merry-flower-bg.png
