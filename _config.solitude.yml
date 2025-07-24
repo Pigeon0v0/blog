@@ -21,7 +21,7 @@ site:
   name:
     class: text # text / i_class / img
     custom: 流年如鸽 # Solitude / fas fa-ghost / /img/pwa/favicon.ico
-  icon: /img/favicon.png # Site icon / 网站图标
+  icon: /img/favicon.ico # Site icon / 网站图标
 # --------------------------- end ---------------------------
 
 # --------------------------- start ---------------------------
