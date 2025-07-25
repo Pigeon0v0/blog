@@ -10,6 +10,7 @@ tags: 友链
 ## 本站友链信息
 
 名称：流年如鸽
-链接：https://itspigeon.xin
+链接：https://itspigeon.xin/
 头像：https://img.z4a.net/images/2025/03/22/pigeon-avatar.png
 简介：Live a life you will remember. 
+配色：#ffa565
