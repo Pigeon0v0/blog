@@ -27,6 +27,7 @@ WireGuard Public Key:
 WireGuard Listen Port: 23124
 Transmit Routes: (IPv4 / IPv6 / Both)
 Multi-Protocol BGP: <true / false>
+Extended Next Hop: <true / false>
 ```
 
 ### 基本信息 / Basic info
