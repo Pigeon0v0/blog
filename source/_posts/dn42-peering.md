@@ -41,7 +41,7 @@ IPv6: fd7b:8fd:7820::/48
 #### 1. Pigeon-CN1 (中国大陆 / Chinese Mainland)
 
 - WireGuard Public Key: qi+TuHaEP4eGkOoeS+dkbyaNicJh5wU/Y559lV5y+wk=
-- Endpoint: dn1.cvserver.top:23124
+- Endpoint: dn1.cvserver.top:<your asn last 5>
 - Public IP: dn1.cvserver.top (Dynamic)
 - Local IPv6: fe80::3124
 - DN42 IPv4: 172.20.163.201
@@ -50,7 +50,7 @@ IPv6: fd7b:8fd:7820::/48
 #### 2. Pigeon-CN2 (中国大陆 / Chinese Mainland)
 
 - WireGuard Public Key: WtpsE6yckNjEdBzNVxIoItbZElRKZIXgx6LA8Jp7i0s=
-- Endpoint: dn2.cvserver.top:23124
+- Endpoint: dn2.cvserver.top:<your asn last 5>
 - Public IP: dn2.cvserver.top (Dynamic)
 - Local IPv6: fe80::3125 (temporarily)
 - DN42 IPv4: 172.20.163.202
